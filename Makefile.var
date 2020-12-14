@@ -1,8 +1,8 @@
 ####################
 # Common variables
 #################### 
-#CC = icc
-CC = gcc
+CC = icc
+#CC = gcc
 #CC = cc
 MAKE = make
 #MAKE = gmake
